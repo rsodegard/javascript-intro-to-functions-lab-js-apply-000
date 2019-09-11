@@ -7,6 +7,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
+<<<<<<< HEAD
   console.log('HELLO')
 }
 
@@ -25,3 +26,7 @@ function sayHiToGrandma(string) {
 }
 
 sayHiToGrandma("I love you, Grandma.");
+=======
+  console.log('shout')
+}
+>>>>>>> a2a6c5d6a1947160d6146b86755ddbda0c225077
